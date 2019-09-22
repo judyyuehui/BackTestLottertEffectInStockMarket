@@ -4,7 +4,7 @@ Calculate Lottery Effect in American Market &amp; Build a simple backtest system
 The trading strategy constructed in a relative term, that is, we long the stock with the factor value within top x% of whole data and short the last 5%, construct a zero-investment portfolio 
 
 # File Descriptions:
-## Report: 
+## Report
     analysis the extreme return factor, explain the possible logic base on prospect theory, present its performance analysis  
 
 
